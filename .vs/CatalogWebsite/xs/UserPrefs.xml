@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{FF17C339-2807-46BA-A9E5-7E26AE743F55}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CatalogWebsite/ClientApp/src/environments/environment.ts">
+    <Files>
+      <File FileName="CatalogWebsite/Pages/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="CatalogWebsite/ClientApp/src/app/fetch-data/fetch-data.component.html" />
+      <File FileName="CatalogWebsite/ClientApp/src/app/fetch-data/fetch-data.component.ts" />
+      <File FileName="CatalogWebsite/ClientApp/src/environments/environment.ts" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CatalogWebsite" expanded="True">
+            <Node name="CatalogWebsite" expanded="True">
+              <Node name="wwwroot" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CatalogWebsite PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
